@@ -6,17 +6,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/codrshivam/" target="_blank" style=" margin-right:20px">
-    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 128 128">
-	<path fill="#0076b2" d="M116 3H12a8.91 8.91 0 0 0-9 8.8v104.42a8.91 8.91 0 0 0 9 8.78h104a8.93 8.93 0 0 0 9-8.81V11.77A8.93 8.93 0 0 0 116 3" />
-	<path fill="#fff" d="M21.06 48.73h18.11V107H21.06zm9.06-29a10.5 10.5 0 1 1-10.5 10.49a10.5 10.5 0 0 1 10.5-10.49m20.41 29h17.36v8h.24c2.42-4.58 8.32-9.41 17.13-9.41C103.6 47.28 107 59.35 107 75v32H88.89V78.65c0-6.75-.12-15.44-9.41-15.44s-10.87 7.36-10.87 15V107H50.53z" />
-</svg>
+    <img height="52" width="52" src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://x.com/codrshivam" target="_blank">
-    <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 512 512">
-	<path fill="#fff" d="M389.2 48h70.6L305.6 224.2L487 464H345L233.7 318.6L106.5 464H35.8l164.9-188.5L26.8 48h145.6l100.5 132.9zm-24.8 373.8h39.1L151.1 88h-42z" />
-</svg>
+    <img height="50" width="50" src="https://cdn.simpleicons.org/x/white" />
   </a>
-
 </p>
 
 # 💻 Tech Stack:
@@ -26,8 +20,8 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=10xshivam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin: 20px; " />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=10xshivam&theme=dark&hide_border=false" alt="GitHub Streak" style="margin: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=10xshivam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-bottom: 20px; " /></br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=10xshivam&theme=dark&hide_border=false" alt="GitHub Streak"  style="margin-bottom: 20px;" /></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xshivam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" /><br />
 </p>
 
@@ -39,7 +33,7 @@
 
 #
 
-<table border align="center">
+<table align="center">
   <tr>
     <td>Profile visits</td>
     <td><img src="https://profile-counter.glitch.me/10xshivam/count.svg" alt="Visitor Count" height="30" width="224" /></td>
