@@ -2,16 +2,6 @@
    <img src="https://readme-typing-svg.herokuapp.com?color=00caff&width=500&height=100&lines=Hello+There!+I'm+Shivam..;Passionate+Full-Stack+Developer;Open-Source+Contributor+and+Learner;Advancing+Through+Innovation;Great+To+Connect+With+You!"">
 </p>
 
-## 🌐 Connect with me:
-
-<p>
-  <a href="https://www.linkedin.com/in/codrshivam/" target="_blank" style="margin-right:20px">
-    <img height="40" width="40" src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://x.com/codrshivam" target="_blank">
-    <img height="40" width="40" src="https://cdn.simpleicons.org/x/white" />
-  </a>
-</p>
 
 # 💻 Tech Stack:
 
