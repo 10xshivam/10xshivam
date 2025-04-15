@@ -18,9 +18,9 @@ I build smart, fast, and reliable web apps from backend to frontend. I'm always 
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=10xshivam&show_icons=true&hide_border=true&theme=github_dark&count_private=true" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=10xshivam&show_icons=true&hide_border=true&theme=github_dark&count_private=true" width="48%" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xshivam&layout=compact&hide_border=true&theme=github_dark" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xshivam&layout=compact&hide_border=true&theme=github_dark" width="48%" />
 
 
 
