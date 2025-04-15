@@ -8,7 +8,6 @@ I build smart, fast, and reliable web apps from backend to frontend. I'm always 
 - **Email:** [shivamdotwork@gmail.com](mailto:shivamdotwork@gmail.com)  
 - **Portfolio:** [shivamworks.tech](https://shivamworks.tech)
 
----
 
 ## Tech Stack
 
@@ -16,16 +15,14 @@ I build smart, fast, and reliable web apps from backend to frontend. I'm always 
   <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,mongodb,postgresql,express,nodejs,docker,firebase,aws&theme=dark" />
 </p>
 
----
 
 ## GitHub Stats
 
-<div align="left" style="display: flex; flex-direction: column; gap: 16px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=10xshivam&show_icons=true&hide_border=true&theme=github_dark&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xshivam&layout=compact&hide_border=true&theme=github_dark" width="48%" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=10xshivam&show_icons=true&hide_border=true&theme=github_dark&count_private=true" width="100%" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xshivam&layout=compact&hide_border=true&theme=github_dark" width="100%" />
 
----
+
 
 ## Connect with me
 
