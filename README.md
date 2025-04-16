@@ -20,7 +20,7 @@ I build smart, fast, and reliable web apps from backend to frontend. I'm always 
 
 <img src="https://github-readme-stats.vercel.app/api?username=10xshivam&show_icons=true&hide_border=true&theme=react&count_private=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xshivam&layout=compact&hide_border=true&theme=react" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xshivam&layout=compact&hide_border=true&theme=react"  />
 
 
 
@@ -28,14 +28,14 @@ I build smart, fast, and reliable web apps from backend to frontend. I'm always 
 
 <p align="left">
   <a href="https://linkedin.com/in/codrshivam" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
   <a href="https://x.com/shivamcodes_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
+    <img src="https://img.shields.io/badge/-Twitter-1a1a2e?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
   </a>
 </p>
 
----
+
 
 <table align="center">
   <tr>
