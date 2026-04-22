@@ -1,12 +1,10 @@
 # Hi, I'm Shivam
 
-### Full Stack Developer | Cloud & DevOps Enthusiast
-
-I build smart, fast, and reliable web apps from backend to frontend. I'm always open to collaborate on projects that solve real problems and create real value.
+You can call me a Full-Stack, Frontend, or Design Engineer - I just love building things that look good and work great.
 
 - **Location:** Delhi, India  
 - **Email:** [shivamdotwork@gmail.com](mailto:shivamdotwork@gmail.com)  
-- **Portfolio:** [shivamworks.tech](https://shivamworks.tech)
+- **Portfolio:** [10xshivam.dev](https://10xshivam.dev)
 
 
 ## Tech Stack
@@ -27,10 +25,10 @@ I build smart, fast, and reliable web apps from backend to frontend. I'm always 
 ## Connect with me
 
 <p align="left">
-  <a href="https://linkedin.com/in/codrshivam" target="_blank">
+  <a href="https://linkedin.com/in/10xshivam" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/shivamcodes_" target="_blank">
+  <a href="https://x.com/10xshivam" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1a1a2e?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
   </a>
 </p>
@@ -40,7 +38,9 @@ I build smart, fast, and reliable web apps from backend to frontend. I'm always 
 <table align="center">
   <tr>
     <td>Profile visits</td>
-    <td><img src="https://profile-counter.glitch.me/10xshivam/count.svg" alt="Visitor Count" height="30" width="224" /></td>
+   <td>
+      <img src="https://komarev.com/ghpvc/?username=10xshivam&label=Profile%20Views&color=111827&style=for-the-badge" />
+   </td>
   </tr>
 </table>
 
