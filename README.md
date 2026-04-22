@@ -33,15 +33,5 @@ You can call me a Full-Stack, Frontend, or Design Engineer - I just love buildin
   </a>
 </p>
 
-##
-
-<table align="center">
-  <tr>
-    <td>Profile visits</td>
-   <td>
-      <img src="https://komarev.com/ghpvc/?username=10xshivam&label=Profile%20Views&color=111827&style=for-the-badge" />
-   </td>
-  </tr>
-</table>
 
 
