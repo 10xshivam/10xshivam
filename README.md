@@ -16,11 +16,13 @@ You can call me a Full-Stack, Frontend, or Design Engineer - I just love buildin
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=10xshivam&show_icons=true&hide_border=true&theme=react&count_private=true" width="48%" />
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=10xshivam&show_icons=true&theme=react&hide_border=true" 
+/>
 
- <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=10xshivam&layout=compact&hide_border=true&theme=react&card_width=420&langs_count=6" 
-  />
+<img 
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=10xshivam&layout=compact&theme=react&hide_border=true" 
+/>
 
 
 ## Connect with me
