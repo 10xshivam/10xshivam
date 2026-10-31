@@ -14,16 +14,5 @@ You can call me a Full-Stack, Frontend, or Design Engineer - I just love buildin
 </p>
 
 
-## Connect with me
-
-<p align="left">
-  <a href="https://linkedin.com/in/10xshivam" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=0077B5" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/10xshivam" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1a1a2e?style=for-the-badge&logo=twitter&logoColor=1DA1F2" alt="Twitter" />
-  </a>
-</p>
-
 
 
