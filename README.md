@@ -7,12 +7,6 @@ You can call me a Full-Stack, Frontend, or Design Engineer - I just love buildin
 - **Portfolio:** [10xshivam.dev](https://10xshivam.dev)
 
 
-## Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,nextjs,react,mongodb,postgresql,express,nodejs,docker,firebase,aws&theme=dark" />
-</p>
-
 
 
 
